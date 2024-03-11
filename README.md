@@ -1,5 +1,11 @@
 ![populations plot](populations.png)
 COPD affects older people more than young people. Uganda's population is much younger than the USA's, which explains the difference in crude rates. Age standardisation makes the rates comparable.
+Crude Rates:
+- Uganda: 5.8
+- USA: 57.2
+Age-Standardised Rates:
+- Uganda: 28.7
+- USA: 28.4
 
 # Assumptions
 1. COPD death rates are accurate and the standard of reporting of COPD deaths in the USA/Uganda is comparable.
